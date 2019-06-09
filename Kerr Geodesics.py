@@ -17,7 +17,7 @@ hole.penup()
 O = 0
 l = 2.898
 r = 300
-a = 0.99999
+a = 0.998
 vr = 0
 rocket.goto(math.cos(O)*r,math.sin(O)*r)
 rocket.pd()
